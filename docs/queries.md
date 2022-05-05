@@ -3,6 +3,7 @@
 You can find a list of queries, and their associated categories here: [https://docs.kics.io/latest/queries/all-queries/](https://docs.kics.io/latest/queries/all-queries/)
 
 The category list is: 
+
 - Access Control
 - Availability
 - Backup
